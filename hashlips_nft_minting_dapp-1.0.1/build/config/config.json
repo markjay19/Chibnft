@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xffca83272fd4f42ee154d1e2e33ef61cac9fb3a4",
+  "SCAN_LINK": "https://polygonscan.com/token/0xffca83272fd4f42ee154d1e2e33ef61cac9fb3a4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CHIB NFT",
+  "SYMBOL": "CHIB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chibnft",
+  "SHOW_BACKGROUND": true
+}
